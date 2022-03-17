@@ -42,7 +42,7 @@ start ส่วน server โดยไปที่โฟลเดอร์ "/ser
 ```
 node app.js
 ```
-start ส่วน client โดยไปที่โฟลเดอร์ "/client" แล้วรันคำสั่ง
+start ส่วน client โดยเปิด terminal แยกกับส่วนที่รัน server แล้วไปที่โฟลเดอร์ "/client" รันคำสั่ง
 ```
 npm start
 ```
