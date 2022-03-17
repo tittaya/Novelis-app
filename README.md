@@ -19,5 +19,11 @@ CLOUDINARY_URL คือ url ของ Clondinary API สำหรับ upload 
 ```
 node app.js
 ```
-3.4) server จะเรื่มทำงานที่ port 4000 โดยสามรถทดสอบ graphql quries ได้ที่ http://localhost:4000/graphql
+3.4) server จะเรื่มทำงานที่ port 4000 โดยสามารถทดสอบ graphql queries ได้ที่ http://localhost:4000/graphql
 ## 4. Set up ส่วน client
+4.1) ไปที่โฟลเดอร์ "/client" แล้วรันคำสั่ง
+```
+npm install
+```
+จะเป็นการติดตั้ง package ทั้งหมดที่อยู่ในไฟล์ package.json ของ client<br/>
+4.2) สร้างไฟล์ชื่อ "config.json" ในโฟลเดอร์ "/client/src" และสร้างตัวแปรในไฟล์ "config.json" ชื่อ GOOGLE_CLIENT_ID และ CLOUDINARY_URL ดังรูป
