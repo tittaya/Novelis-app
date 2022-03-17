@@ -28,7 +28,7 @@ npm install
 ```
 จะเป็นการติดตั้ง package ทั้งหมดที่อยู่ในไฟล์ package.json ของ client<br/>
 4.2) สร้างไฟล์ชื่อ "config.json" ในโฟลเดอร์ "/client/src" และสร้างตัวแปรในไฟล์ "config.json" ชื่อ GOOGLE_CLIENT_ID และ CLOUDINARY_URL ดังรูป<br/>
-
+![config-edit](https://user-images.githubusercontent.com/46591132/158848594-e5d24697-064b-40a7-afed-0579e57ceb11.JPG)
 ใส่ค่าตัวแปร ดังนี้<br/>
 GOOGLE_CLIENT_ID คือ client ID ของ Google API<br/>
 CLOUDINARY_URL คือ url ของ Clondinary API สำหรับ upload รูปภาพ<br/>
