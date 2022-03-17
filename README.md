@@ -13,6 +13,11 @@ npm install
 ใส่ค่าตัวแปร ดังนี้<br/>
 MONGO_URI คือ connection string ของ MongoDB <br/>
 REACT_APP_GOOGLE_CLIENT_ID คือ client ID ของ Google API<br/>
-SERVER_URI คือ http://localhost/4000/graphql<br/>
+SERVER_URI คือ http://localhost:4000/graphql<br/>
 CLOUDINARY_URL คือ url ของ Clondinary API สำหรับ upload รูปภาพ<br/>
+3.3) start ส่วน server โดยไปที่โฟลเดอร์ "/server" แล้วรันคำสั่ง
+```
+node app.js
+```
+3.4) server จะเรื่มทำงานที่ port 4000 โดยสามรถทดสอบ graphql quries ได้ที่ http://localhost:4000/graphql
 ## 4. Set up ส่วน client
