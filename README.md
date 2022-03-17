@@ -35,3 +35,4 @@ CLOUDINARY_URL คือ url ของ Clondinary API สำหรับ upload 
 ```
 npm start
 ```
+4.4) เปิดหน้าเว็บ โดยไปที่ http://localhost:3000
