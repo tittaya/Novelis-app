@@ -37,3 +37,13 @@ CLOUDINARY_URL คือ url ของ Clondinary API สำหรับ upload 
 npm start
 ```
 4.4) เปิดหน้าเว็บ โดยไปที่ http://localhost:3000
+## 5. วิธี start เว็บแอพพลิเคชั่น
+start ส่วน server โดยไปที่โฟลเดอร์ "/server" แล้วรันคำสั่ง
+```
+node app.js
+```
+start ส่วน client โดยไปที่โฟลเดอร์ "/client" แล้วรันคำสั่ง
+```
+npm start
+```
+หน้าเว็บจะอยู่ที่ http://localhost:3000
