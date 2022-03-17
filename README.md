@@ -2,6 +2,7 @@
 ## 1. Download หรือ Clone
 download Zip file หรือ ใช้คำสั่ง `git clone https://github.com/tittaya/Novelis-app.git`
 ## 2. Set up MongoDB, Cloudinary และ Google OAuth
+ดูวิธี set up MongoDB, Cloudinary และ Google OAuth ได้ที่ https://docs.google.com/document/d/1vMIoYL8KNosGPaj_twvBXL-Z4dXrPOLm2Tym41bevFg/edit?usp=sharing
 ## 3. Set up ส่วน server
 3.1) ไปที่โฟลเดอร์ "/server" แล้วรันคำสั่ง
 ```
